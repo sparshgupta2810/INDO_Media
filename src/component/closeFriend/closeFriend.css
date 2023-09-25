@@ -1,0 +1,18 @@
+.sideFriendpic{
+    margin-right: 20px;
+}
+.sidebarFriendname{
+    font-size: 20px;
+}
+.sidebarFriendItems{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+}
+.sideFriendpic img{
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
